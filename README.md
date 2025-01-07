@@ -1,16 +1,6 @@
 <div >
   <img height="300" width="100%" src="https://firebasestorage.googleapis.com/v0/b/firetest-67b89.appspot.com/o/New%20Project%20(2).png?alt=media&token=a22918d8-e723-469c-8cbb-bbf6703bbd4e"  />
 </div>
-
-###
-###
-
-###
-
-###
-
-###
-
 <h1 align="left">Hi 👋, I'm Franco Gregorio</h1>
 
 ###
@@ -21,6 +11,12 @@
 
 <p align="left">I want to become a full-stack developer because I enjoy building complete web applications, working with both front-end and back-end technologies.</p>
 
+###
+
+<h2 align="left">🚀 Languages and Tools I Use</h2>
+
+###
+
 
 ###
 # 💻 Tech Stack:
@@ -29,8 +25,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akatsuki0354&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akatsuki0354&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akatsuki0354&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&theme=transparent" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akatsuki0354&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&theme=transparent" height="150" alt="languages graph" />
 </div>
+
 
 ######
