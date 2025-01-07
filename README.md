@@ -8,12 +8,6 @@
 
 <p align="left">I want to become a full-stack developer because I enjoy building complete web applications, working with both front-end and back-end technologies.</p>
 
-###
-
-<h2 align="left">🚀 Languages and Tools I Use</h2>
-
-###
-
 
 ###
 # 💻 Tech Stack:
