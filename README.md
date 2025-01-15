@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+### About me
 
 <p align="left">I want to become a full-stack developer because I enjoy building complete web applications, working with both front-end and back-end technologies.</p>
 
